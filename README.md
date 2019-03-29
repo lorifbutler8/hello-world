@@ -1,2 +1,3 @@
 # hello-world
-repository for GitHub
+
+I am a programmer, my new favorite language is Python.
